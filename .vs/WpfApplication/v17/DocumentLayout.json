@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\pagesappls\\pagelogin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\pagesappls\\pagelogin.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\pagesappls\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\pagesappls\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\pagesappls\\pageaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\pagesappls\\pageaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\windowsappls\\windowsaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\windowsappls\\windowsaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\classdata\\classframenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\classdata\\classframenavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\pagesappls\\pageaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\pagesappls\\pageaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\windowsappls\\windowsaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\windowsappls\\windowsaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|c:\\users\\burnf\\source\\repos\\wpfapplication\\wpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F165AA1-F7A4-48BC-9862-A087867087FE}|WpfApplication\\WpfApplication.csproj|solutionrelative:wpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageLogin.xaml",
+              "RelativeDocumentMoniker": "WpfApplication\\PagesAppls\\PageLogin.xaml",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageLogin.xaml",
+              "RelativeToolTip": "WpfApplication\\PagesAppls\\PageLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T09:01:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageAccount.xaml",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageAccount.xaml",
+              "RelativeDocumentMoniker": "WpfApplication\\PagesAppls\\PageAccount.xaml",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageAccount.xaml",
+              "RelativeToolTip": "WpfApplication\\PagesAppls\\PageAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T08:56:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowsAccount.xaml",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\WindowsAppls\\WindowsAccount.xaml",
+              "RelativeDocumentMoniker": "WpfApplication\\WindowsAppls\\WindowsAccount.xaml",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\WindowsAppls\\WindowsAccount.xaml",
+              "RelativeToolTip": "WpfApplication\\WindowsAppls\\WindowsAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T08:47:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApplication\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T08:28:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassFrameNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\ClassData\\ClassFrameNavigation.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\ClassData\\ClassFrameNavigation.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\ClassData\\ClassFrameNavigation.cs",
+              "RelativeToolTip": "WpfApplication\\ClassData\\ClassFrameNavigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:02:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageLogin.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\PagesAppls\\PageLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageLogin.xaml.cs",
+              "RelativeToolTip": "WpfApplication\\PagesAppls\\PageLogin.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:06:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageAccount.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\PagesAppls\\PageAccount.xaml.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\PagesAppls\\PageAccount.xaml.cs",
+              "RelativeToolTip": "WpfApplication\\PagesAppls\\PageAccount.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA1wB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:02:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowsAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\WindowsAppls\\WindowsAccount.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\WindowsAppls\\WindowsAccount.xaml.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\WindowsAppls\\WindowsAccount.xaml.cs",
+              "RelativeToolTip": "WpfApplication\\WindowsAppls\\WindowsAccount.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:02:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\WpfApplication\\WpfApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApplication\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:28:21.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
